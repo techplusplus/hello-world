@@ -1,2 +1,6 @@
 # hello-world
 Following the Hello World guide on GitHub.  Also, and introduction to me, David
+I'm a science and technology enthusiast.  My heroes are people like Elon Musk and Jeff Bezos who pull together ideas from different fields and create new and amazing things that change the course of human history.  I would consider myself a transhuminist, one who looks to transform the human experience through science, technology, business, and philosophy.  The following is a brief description of my various interests
+-Biological approaches to human health, especially diet.  I have observed that we are in the middle of a dark age where information about healthy diets is concerned.  With the proliferation of the internet and social networks, there is a lack of social concensus as to what kind of diet is optimal for human health.
+-Computer Science and Information Technology.  I am deeply interested in all aspects of our technological infrastructure we have created.  I have had a difficult time focusing in on one area as I find it all to be so interesting.  I've become something of a technological generalist, however I am looking to specialize in a few areas, particlularly Android and Linux development
+-Economics.  I'll add more on this later
